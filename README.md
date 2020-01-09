@@ -1,1 +1,15 @@
 # DeeplearningProject
+
+DeeplearningProject is a kaggle competition.
+
+# Steps
+
+  ## Upload the Data
+  ## Data visualisation
+  ## Data preparation
+  ## Merging Data
+  ## Split the data into train set and validation set 
+  ## build LSTM Architecture with keras
+  ## Load the model
+  ## Test
+
