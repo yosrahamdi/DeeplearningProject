@@ -8,7 +8,7 @@ DeeplearningProject is a kaggle competition.
     Weather Dataset
     Building Metadata
     Train Dataset
-  ## Data visualisation
+  ## Data visualization
   ## Data preparation
     Fill Nan value in weather dataframe
     Categorize primary_use column in building Metadata dataframe ...
