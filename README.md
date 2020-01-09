@@ -9,7 +9,7 @@ DeeplearningProject is a kaggle competition.
   ## Data preparation
   ## Merging step
   ## Split the data into train set and validation set 
-  ## build LSTM Architecture with keras
+  ## build LSTM Architecture using keras
   ## Load the model
   ## Test
 
